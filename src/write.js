@@ -1,2 +1,2 @@
-import buildList from './buildList.js';
+const buildList = require('./buildList');
 console.log(JSON.stringify(buildList(), null, 2));
