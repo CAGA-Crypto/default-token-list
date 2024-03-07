@@ -1,5 +1,21 @@
 [
   {
+    "chainId": 72778,
+    "address": "0x2b53f065a947A702E06e4601b64DC6850AA58DcF",
+    "name": "UniToken",
+    "symbol": "UniToken",
+    "decimals": 18,
+    "logoURI": "https://www.cagacrypto.com/tokens/caga.svg"
+  },
+  {
+    "chainId": 72778,
+    "address": "0xb36db4081125A17dEA02223c955E6992dDF03c1d",
+    "name": "UniToken2",
+    "symbol": "UniToken2",
+    "decimals": 18,
+    "logoURI": "https://www.cagacrypto.com/tokens/caga.svg"
+  },
+  {
     "name": "Wrapped Ether on xDai",
     "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
     "symbol": "WETH",
