@@ -1,6 +1,6 @@
 {
   "name": "@caga-cryptos/default-token-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "◦ The Cagaswap default token list",
   "main": "build/honeyswap-default.tokenlist.json",
   "scripts": {

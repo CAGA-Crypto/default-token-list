@@ -1,18 +1,34 @@
 [
   {
-    "chainId": 72778,
+    "name": "Universal Test Token",
     "address": "0x2b53f065a947A702E06e4601b64DC6850AA58DcF",
-    "name": "UniToken",
     "symbol": "UniToken",
     "decimals": 18,
+    "chainId": 72778,
+    "logoURI": "https://www.cagacrypto.com/tokens/caga.svg"
+},
+{
+    "name": "Universal Test Token 2",
+    "address": "0xb36db4081125A17dEA02223c955E6992dDF03c1d",
+    "symbol": "UniToken2",
+    "decimals": 18,
+    "chainId": 72778,
+    "logoURI": "https://www.cagacrypto.com/tokens/caga.svg"
+},
+{
+    "name": "Wrapped Caga",
+    "address": "0xF22d0f6ed0C214e9e4A14EEb1fbAbbBB3567D7af",
+    "symbol": "wCaga",
+    "decimals": 18,
+    "chainId": 72778,
     "logoURI": "https://www.cagacrypto.com/tokens/caga.svg"
   },
   {
+    "name": "CagaTest2Token",
+    "address": "0x4bb796b90e3bafef741826822ee85a80b22a8a21",
+    "symbol": "CTT",
+    "decimals": 2,
     "chainId": 72778,
-    "address": "0xb36db4081125A17dEA02223c955E6992dDF03c1d",
-    "name": "UniToken2",
-    "symbol": "UniToken2",
-    "decimals": 18,
     "logoURI": "https://www.cagacrypto.com/tokens/caga.svg"
   },
   {
